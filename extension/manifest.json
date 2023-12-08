@@ -1,0 +1,26 @@
+{ 
+    "manifest_version": 3,
+    "name": "VidSense",
+    "description": "Get an answer to your question based on the YouTube video in the current tab.",
+    "version": "1.0",
+    "permissions": ["activeTab", "declarativeContent"],
+    "host_permissions": ["http://127.0.0.1:5000/*"],
+    
+    "action": {
+        "default_title": "Snap, tap, info in a zap.",
+        "default_icon": {
+            "16": "images/icon.png",
+            "32": "images/icon.png",
+            "48": "images/icon.png",
+            "128": "images/icon.png"
+        },
+        "default_popup": "popup.html"
+    },
+
+    "icons": {
+        "16": "images/icon.png",
+        "32": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    }
+}
