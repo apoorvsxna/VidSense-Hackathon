@@ -13,3 +13,8 @@ To sideload, first, download the entire code as a zip and extract it. Next, go t
 2. Open the extension.
 3. Type in a question and click on "Generate Answer".
 4. The answer would now be displayed in the answer text box.
+
+
+# Working-
+
+When the question is entered in the extension input box, it is sent to the backend python server via an http request along with the URL of the current tab
