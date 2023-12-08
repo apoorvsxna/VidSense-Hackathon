@@ -1,4 +1,4 @@
-const btn = document.getElementById("summarise");
+const btn = document.getElementById("generateBtn");
 const inputQuestion = document.getElementById("question");
 
 btn.addEventListener("click", function() {
