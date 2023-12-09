@@ -1,4 +1,4 @@
-_{under development}_**
+_{under development}_
 
 # Installation-
 
@@ -32,7 +32,8 @@ To sideload, first, download the entire code as a zip and extract it. Next, go t
 
 ![WhatsApp Image 2023-12-09 at 05 18 54_d8e64f9f](https://github.com/apoorvsxna/VidSense/assets/112375644/0792a0f7-ff06-4fb2-b06c-6fbed8221790)
 
-![WhatsApp Image 2023-12-09 at 05 22 17_1061e3a6](https://github.com/apoorvsxna/VidSense/assets/112375644/116655b6-d302-43ba-b5af-7de631510dfd)
+![WhatsApp Image 2023-12-09 at 05 18 54_2f099b20](https://github.com/apoorvsxna/VidSense/assets/112375644/5f4d8f29-ff34-4cb2-a211-008acf792b7e)
+
 
 
 # Planned features-
