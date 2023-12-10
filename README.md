@@ -17,9 +17,9 @@ To sideload, first, download the entire code as a zip and extract it. Next, go t
 
 # Working-
 
-1. When the question is entered in the extension input box, it is sent to an API endpoint of the backend python server via an http request along with the URL of the current tab.
+1. When the question is entered in the extension input box, it is sent to an API endpoint of the backend Flask server via an http request along with the URL of the current tab.
 2. The video id is extracted from the URL, which is then used to fetch the transcript of the video in the current tab by using the _youtube-transcript-api_
-3. Once the transcript is fetched, it is provided to the language model, which has been finetuned, and is run locally. [This](https://huggingface.co/bert-large-uncased-whole-word-masking-finetuned-squad) is the language model in use. (It is a fine-tuned variant of the BERT language model).
+3. Once the transcript is fetched, it is provided to the language model, which has been finetuned, and is run locally. [This](https://huggingface.co/bert-large-uncased-whole-word-masking-finetuned-squad) is the language model in use. (This is a fine-tuned variant of the BERT language model).
 4. The transcript (after processing to convert it into a string) and the question are passed as parameters to the "question-answering" pipeline of the language model.
 5. Once processing is complete, the answer generated is returned and displayed in the output box of the extension popup.
 
