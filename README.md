@@ -14,6 +14,7 @@ To sideload, first, download the entire code as a zip and extract it. Next, go t
 3. Type in a question and click on "Generate Answer".
 4. The answer would now be displayed in the answer text box.
 
+ [Demo video for reference](https://drive.google.com/file/d/1BU0nBCJM3qk2fWzsWAHzgn1AlNRJI6LW/view?usp=drive_link)
 
 # Working-
 
