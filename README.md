@@ -1,4 +1,4 @@
-_{under development}_
+This was the 2nd place submission of the GDSC DevOn Hackathon 2023, held at Greater Noida.
 
 # Installation-
 
